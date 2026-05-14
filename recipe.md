@@ -12,3 +12,8 @@
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
 3. ...
+
+## These are my edits:
+1. Hi
+2. Bye
+3. Test
